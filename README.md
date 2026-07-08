@@ -11,4 +11,4 @@ The model was trained following repository for [An Inherently Interpretable AI m
 `The corresponding notebook for analysing Explaination Consistency will release upon publication`
 
 ## Acknowledge
-They authors thanks __Djoumessi et al. for releasing their code.
+They authors thanks __Djoumessi et al.__ for releasing their code.
